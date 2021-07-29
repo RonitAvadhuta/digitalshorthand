@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>79 - Copy.jpg</filename>
+	<path>C:\Tensorflow1\models\research\object_detection\images\train\79 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>189</width>
+		<height>235</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>118</ymin>
+			<xmax>113</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>
